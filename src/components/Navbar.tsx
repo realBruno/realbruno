@@ -22,7 +22,13 @@ const Navbar = () => (
           <li key={link.href}>
             <a
               href={link.href}
-              className="text-sm text-muted-foreground hover:text-foreground transition-colors duration-200"
+              className="text-sm relative pb-1 text-muted-foreground hover:text-foreground transition-colors duration-300
+             after:absolute after:left-1/2 after:bottom-0
+             after:h-[2px] after:w-0
+             after:bg-primary
+             after:transition-all after:duration-300
+             after:-translate-x-1/2
+             hover:after:w-full"
             >
               {link.label}
             </a>
@@ -31,27 +37,27 @@ const Navbar = () => (
       </ul>
       <div className="flex items-center gap-3">
         <a
-          href="https://github.com/brunofernandes"
+          href="https://github.com/realBruno"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="GitHub"
-          className="text-muted-foreground hover:text-foreground transition-colors"
+          className="p-2 rounded-full text-muted-foreground hover:text-primary transition-all duration-300 hover:shadow-md hover:shadow-primary/30"
         >
           <Github size={18} />
         </a>
         <a
-          href="https://linkedin.com/in/brunofernandes"
+          href="https://linkedin.com/in/real-bruno"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="LinkedIn"
-          className="text-muted-foreground hover:text-foreground transition-colors"
+          className="p-2 rounded-full text-muted-foreground hover:text-primary transition-all duration-300 hover:shadow-md hover:shadow-primary/30"
         >
           <Linkedin size={18} />
         </a>
         <a
-          href="mailto:bruno@example.com"
+          href="mailto:eusantosbruno@gmail.com"
           aria-label="Email"
-          className="text-muted-foreground hover:text-foreground transition-colors"
+          className="p-2 rounded-full text-muted-foreground hover:text-primary transition-all duration-300 hover:shadow-md hover:shadow-primary/30"
         >
           <Mail size={18} />
         </a>

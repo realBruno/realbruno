@@ -1,20 +1,20 @@
 {
   "name": "Bruno Fernandes",
   "title": "Data Scientist",
-  "hero_description": "Engenheiro de software especializado em sistemas backend escaláveis, pipelines de dados e soluções de inteligência artificial.",
+  "hero_description": "Cientista de Dados com foco em machine learning aplicado, APIs inteligentes e tradução de modelos em soluções de negócio.",
   "about": {
     "paragraphs": [
-      "Desenvolvedor com foco em engenharia de backend e dados, apaixonado por construir sistemas robustos, escaláveis e de alta performance.",
-      "Experiência em arquitetura de microsserviços, pipelines de dados em larga escala e implementação de modelos de machine learning em produção. Priorizo código limpo, boas práticas de engenharia e soluções que resolvem problemas reais.",
-      "Busco constantemente aprimorar minhas habilidades e contribuir para projetos que fazem a diferença."
+      "Profissional com experiência em ciência de dados e desenvolvimento de APIs para colocar modelos de machine learning em produção. Atuo desde a exploração e tratamento de dados até o deploy e monitoramento das soluções, sempre com foco em impacto no negócio.",
+
+      "Desenvolvi modelos de detecção de fraude, recomendação e previsão de gastos, além de integrar modelos de linguagem a aplicações via API, com controle de custo e acompanhamento de métricas de desempenho.",
+
+      "Busco evoluir como Data Scientist, com maior profundidade em modelagem preditiva, engenharia de features e construção de sistemas escaláveis orientados a dados."
     ]
   },
   "technologies": {
-    "Backend": ["Python", "Flask", "FastAPI", "Spring Boot"],
-    "Data & AI": ["Apache Airflow", "Spark", "TensorFlow", "Pandas", "Scikit-learn"],
-    "Databases": ["PostgreSQL", "Oracle"],
-    "DevOps & Cloud": ["Docker"],
-    "Tools": ["Git", "Linux"]
+    "Backend": ["Python", "FastAPI", "Flask", "SQLAlchemy"],
+    "Data Science": ["Pandas", "Scikit-learn", "XGBoost", "Power BI"],
+    "Databases": ["PostgreSQL", "Oracle", "SQL", "Modelagem de Dados"]
   },
   "contact": {
     "email": "eusantosbruno@gmail.com",
