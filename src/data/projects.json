@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Lorem Ipsum",
+    "description": "Lorem Ipsum.",
+    "stack": ["Python"],
+    "github": "https://github.com/realBruno",
+    "demo": "",
+    "highlight": true
+  },
+  
+  {
+    "title": "Lorem Ipsum",
+    "description": "Lorem Ipsum.",
+    "stack": ["Python"],
+    "github": "https://github.com/realBruno",
+    "demo": "",
+    "highlight": true
+  }
+]

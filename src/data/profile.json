@@ -1,0 +1,24 @@
+{
+  "name": "Bruno Fernandes",
+  "title": "Data Scientist",
+  "hero_description": "Engenheiro de software especializado em sistemas backend escaláveis, pipelines de dados e soluções de inteligência artificial.",
+  "about": {
+    "paragraphs": [
+      "Desenvolvedor com foco em engenharia de backend e dados, apaixonado por construir sistemas robustos, escaláveis e de alta performance.",
+      "Experiência em arquitetura de microsserviços, pipelines de dados em larga escala e implementação de modelos de machine learning em produção. Priorizo código limpo, boas práticas de engenharia e soluções que resolvem problemas reais.",
+      "Busco constantemente aprimorar minhas habilidades e contribuir para projetos que fazem a diferença."
+    ]
+  },
+  "technologies": {
+    "Backend": ["Python", "Flask", "FastAPI", "Spring Boot"],
+    "Data & AI": ["Apache Airflow", "Spark", "TensorFlow", "Pandas", "Scikit-learn"],
+    "Databases": ["PostgreSQL", "Oracle"],
+    "DevOps & Cloud": ["Docker"],
+    "Tools": ["Git", "Linux"]
+  },
+  "contact": {
+    "email": "eusantosbruno@gmail.com",
+    "github": "https://github.com/realBruno",
+    "linkedin": "https://linkedin.com/in/real-bruno"
+  }
+}
