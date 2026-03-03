@@ -1,6 +1,6 @@
 {
   "name": "Bruno Fernandes",
-  "title": "Data Scientist",
+  "title": "Cientista de Dados",
   "hero_description": "Cientista de Dados com foco em machine learning aplicado, APIs inteligentes e tradução de modelos em soluções de negócio.",
   "about": {
     "paragraphs": [
@@ -8,7 +8,7 @@
 
       "Desenvolvi modelos de detecção de fraude, recomendação e previsão de gastos, além de integrar modelos de linguagem a aplicações via API, com controle de custo e acompanhamento de métricas de desempenho.",
 
-      "Busco evoluir como Data Scientist, com maior profundidade em modelagem preditiva, engenharia de features e construção de sistemas escaláveis orientados a dados."
+      "Busco evoluir como cientista de dados, com maior profundidade em modelagem preditiva, engenharia de features e construção de sistemas escaláveis orientados a dados."
     ]
   },
   "technologies": {
